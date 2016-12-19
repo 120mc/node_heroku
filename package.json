@@ -1,0 +1,19 @@
+{
+  "name": "contacts2",
+  "version": "1.0.0",
+  "description": "**Instructor: Andrew Burgess**",
+  "main": "accounts.js",
+  "dependencies": {
+    "body-parser": "^1.5.2",
+    "bourne": "^0.4.0",
+    "express-session": "^1.7.4",
+    "express": "^4.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
